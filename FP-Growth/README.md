@@ -17,7 +17,7 @@ for itemset in find_frequent_itemsets(transactions, minsup):
     print itemset`
 
 - 利用WEKA內建的Apriori分析進行分析  
-!https://github.com/williamchangTW/Apriori_Project1/blob/master/FP-Growth/WEKA_tool.jpg
+![image](https://github.com/williamchangTW/Apriori_Project1/blob/master/FP-Growth/WEKA_tool.jpg)
 
 # 分析:  
 - WEKA 工具的輔助使用下, 可以得到與運算過後的關聯分析是否正確
